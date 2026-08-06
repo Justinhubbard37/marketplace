@@ -2,7 +2,7 @@
   "id": "gaia",
   "name": "GAIA",
   "description": "SDK for designing local-first agents",
-  "category": ["workflow"],
+  "category": ["agent"],
   "date_added": "2025-02-05",
   "links": {
     "app": "https://github.com/amd/gaia",

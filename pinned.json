@@ -2,7 +2,7 @@
   "pinned": [
     "anythingllm",
     "open-webui",
-    "n8n",
+    "hermes",
     "pi",
     "infinity-arcade",
     "Claude Code",
@@ -11,6 +11,6 @@
     "dify",
     "fx-chatbot",
     "lemonade-mobile",
-    "morphik"
+    "n8n"
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "id": "hermes",
+  "name": "Hermes Agent",
+  "description": "Self-improving autonomous agent with persistent memory and scheduled automations",
+  "category": ["agent"],
+  "date_added": "2026-08-06",
+  "links": {
+    "app": "https://hermes-agent.nousresearch.com/",
+    "guide": "https://developer.amd.com/playbooks/hermes-lemonade-server/"
+  }
+}

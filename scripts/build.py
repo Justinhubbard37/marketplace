@@ -15,6 +15,7 @@ REPO_BASE_URL = "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main
 
 # Category definitions
 CATEGORIES = [
+    {"id": "agent", "label": "Agent"},
     {"id": "code", "label": "Code"},
     {"id": "workflow", "label": "Workflow"},
     {"id": "productivity", "label": "Productivity"},

@@ -65,6 +65,7 @@ marketplace/
 
 | ID | Label |
 |----|-------|
+| `agent` | Agent |
 | `code` | Code |
 | `workflow` | Workflow |
 | `productivity` | Productivity |

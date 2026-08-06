@@ -2,7 +2,7 @@
   "id": "anythingllm",
   "name": "AnythingLLM",
   "description": "All-in-one AI application for productivity using on-device models",
-  "category": ["productivity", "chat"],
+  "category": ["agent"],
   "date_added": "2025-02-05",
   "links": {
     "app": "https://anythingllm.com/",

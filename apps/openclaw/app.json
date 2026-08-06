@@ -1,0 +1,11 @@
+{
+  "id": "openclaw",
+  "name": "OpenClaw",
+  "description": "Autonomous agent that writes and runs code, manages files, and completes multi-step tasks",
+  "category": ["agent"],
+  "date_added": "2026-08-06",
+  "links": {
+    "app": "https://openclaw.ai/",
+    "guide": "https://developer.amd.com/playbooks/openclaw-lemonade-server/"
+  }
+}

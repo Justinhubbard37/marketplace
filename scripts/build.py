@@ -15,13 +15,13 @@ REPO_BASE_URL = "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main
 
 # Category definitions
 CATEGORIES = [
-    {"id": "chat", "label": "Chat"},
     {"id": "code", "label": "Code"},
-    {"id": "creative", "label": "Creative"},
     {"id": "workflow", "label": "Workflow"},
     {"id": "productivity", "label": "Productivity"},
-    {"id": "infrastructure", "label": "Infrastructure"},
+    {"id": "chat", "label": "Chat"},
     {"id": "specialized-tool", "label": "Specialized Tool"},
+    {"id": "creative", "label": "Creative"},
+    {"id": "infrastructure", "label": "Infrastructure"},
 ]
 
 # Required fields in app.json

@@ -65,13 +65,13 @@ marketplace/
 
 | ID | Label |
 |----|-------|
-| `chat` | Chat |
 | `code` | Code |
-| `creative` | Creative |
 | `workflow` | Workflow |
 | `productivity` | Productivity |
-| `infrastructure` | Infrastructure |
+| `chat` | Chat |
 | `specialized-tool` | Specialized Tool |
+| `creative` | Creative |
+| `infrastructure` | Infrastructure |
 
 ## Pinned Apps
 

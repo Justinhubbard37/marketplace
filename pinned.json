@@ -4,13 +4,13 @@
     "open-webui",
     "hermes",
     "pi",
-    "infinity-arcade",
     "Claude Code",
+    "n8n",
     "github-copilot",
     "gaia",
     "dify",
     "fx-chatbot",
     "lemonade-mobile",
-    "n8n"
+    "infinity-arcade"
   ]
 }

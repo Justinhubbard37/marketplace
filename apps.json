@@ -1,12 +1,13 @@
 {
   "version": "1.0",
-  "generated": "2026-08-06T15:32:11.973226+00:00",
+  "generated": "2026-08-06T16:23:27.180171+00:00",
   "apps": [
     {
       "id": "anythingllm",
       "name": "AnythingLLM",
       "description": "All-in-one AI application for productivity using on-device models",
       "category": [
+        "productivity",
         "chat"
       ],
       "date_added": "2025-02-05",
@@ -38,7 +39,7 @@
       "name": "n8n",
       "description": "Workflow automation platform with native Lemonade integration for AI-powered automations",
       "category": [
-        "automation"
+        "workflow"
       ],
       "date_added": "2025-02-05",
       "links": {
@@ -111,15 +112,14 @@
     {
       "id": "gaia",
       "name": "GAIA",
-      "description": "Python SDK for designing multi-modal local-first agents",
+      "description": "SDK for designing local-first agents",
       "category": [
-        "automation"
+        "workflow"
       ],
       "date_added": "2025-02-05",
       "links": {
         "app": "https://github.com/amd/gaia",
-        "guide": "https://github.com/amd/gaia?tab=readme-ov-file#getting-started-guide",
-        "video": "https://youtu.be/_PORHv_-atI?si=EYQjmrRQ6Zy2H0ek"
+        "guide": "https://amd-gaia.ai/"
       },
       "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/gaia/logo.png",
       "pinned": true
@@ -129,7 +129,7 @@
       "name": "Dify",
       "description": "Build node-based AI agents and RAG workflows",
       "category": [
-        "automation"
+        "workflow"
       ],
       "date_added": "2025-02-05",
       "links": {
@@ -173,7 +173,7 @@
       "name": "Morphik",
       "description": "Centralize business knowledge and build reliable AI agents to automate tasks",
       "category": [
-        "app"
+        "workflow"
       ],
       "date_added": "2025-02-05",
       "links": {
@@ -188,7 +188,7 @@
       "name": "Listenr",
       "description": "Record, transcribe, and fine-tune your own audio models — all locally, powered by Lemonade.",
       "category": [
-        "automation"
+        "specialized-tool"
       ],
       "date_added": "2026-06-01",
       "links": {
@@ -203,9 +203,7 @@
       "name": "Dream Server",
       "description": "Private local AI server for chat, agents, RAG, workflows, and self-hosted apps, with Lemonade-backed AMD inference support",
       "category": [
-        "app",
-        "automation",
-        "chat"
+        "infrastructure"
       ],
       "date_added": "2026-05-31",
       "links": {
@@ -221,8 +219,7 @@
       "name": "Lemon Zest",
       "description": "Open source image editor using a local stable diffusion model",
       "category": [
-        "creative",
-        "app"
+        "creative"
       ],
       "date_added": "2026-03-18",
       "links": {
@@ -238,8 +235,7 @@
       "name": "Interviewer",
       "description": "AI-powered interview practice application with voice-enabled mock sessions",
       "category": [
-        "app",
-        "chat"
+        "specialized-tool"
       ],
       "date_added": "2026-03-14",
       "links": {
@@ -269,7 +265,7 @@
       "name": "Deep Tutor",
       "description": "AI-powered tutoring platform for personalized learning experiences",
       "category": [
-        "app"
+        "specialized-tool"
       ],
       "date_added": "2025-02-05",
       "links": {
@@ -283,7 +279,7 @@
       "name": "Hugging Face",
       "description": "Browse and discover models compatible with Lemonade on Hugging Face Hub",
       "category": [
-        "app"
+        "infrastructure"
       ],
       "date_added": "2025-02-05",
       "links": {
@@ -297,7 +293,7 @@
       "name": "Iterate.ai",
       "description": "Enterprise AI platform for building and deploying AI solutions",
       "category": [
-        "automation"
+        "workflow"
       ],
       "date_added": "2025-02-05",
       "links": {
@@ -311,7 +307,7 @@
       "name": "Microsoft AI Toolkit",
       "description": "Experiment at scale with LLMs in a VS Code extension",
       "category": [
-        "code"
+        "workflow"
       ],
       "date_added": "2025-02-05",
       "links": {
@@ -342,7 +338,7 @@
       "name": "Vane",
       "description": "Open-source AI search engine with local LLM support",
       "category": [
-        "chat"
+        "specialized-tool"
       ],
       "date_added": "2025-02-05",
       "links": {
@@ -366,12 +362,20 @@
       "label": "Creative"
     },
     {
-      "id": "automation",
-      "label": "Automation"
+      "id": "workflow",
+      "label": "Workflow"
     },
     {
-      "id": "app",
-      "label": "Apps"
+      "id": "productivity",
+      "label": "Productivity"
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure"
+    },
+    {
+      "id": "specialized-tool",
+      "label": "Specialized Tool"
     }
   ]
 }

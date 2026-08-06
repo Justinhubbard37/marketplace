@@ -2,7 +2,7 @@
   "id": "dify",
   "name": "Dify",
   "description": "Build node-based AI agents and RAG workflows",
-  "category": ["automation"],
+  "category": ["workflow"],
   "date_added": "2025-02-05",
   "links": {
     "app": "https://dify.ai/",

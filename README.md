@@ -68,8 +68,10 @@ marketplace/
 | `chat` | Chat |
 | `code` | Code |
 | `creative` | Creative |
-| `automation` | Automation |
-| `app` | Apps |
+| `workflow` | Workflow |
+| `productivity` | Productivity |
+| `infrastructure` | Infrastructure |
+| `specialized-tool` | Specialized Tool |
 
 ## Pinned Apps
 

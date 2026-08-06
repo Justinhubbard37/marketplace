@@ -2,7 +2,7 @@
   "id": "listenr",
   "name": "Listenr",
   "description": "Record, transcribe, and fine-tune your own audio models — all locally, powered by Lemonade.",
-  "category": ["automation"],
+  "category": ["specialized-tool"],
   "date_added": "2026-06-01",
   "links": {
     "app": "https://github.com/Rebreda/listenr",

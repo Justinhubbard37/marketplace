@@ -2,7 +2,7 @@
   "id": "dream-server",
   "name": "Dream Server",
   "description": "Private local AI server for chat, agents, RAG, workflows, and self-hosted apps, with Lemonade-backed AMD inference support",
-  "category": ["app", "automation", "chat"],
+  "category": ["infrastructure"],
   "date_added": "2026-05-31",
   "links": {
     "app": "https://github.com/Light-Heart-Labs/DreamServer",

@@ -18,8 +18,10 @@ CATEGORIES = [
     {"id": "chat", "label": "Chat"},
     {"id": "code", "label": "Code"},
     {"id": "creative", "label": "Creative"},
-    {"id": "automation", "label": "Automation"},
-    {"id": "app", "label": "Apps"},
+    {"id": "workflow", "label": "Workflow"},
+    {"id": "productivity", "label": "Productivity"},
+    {"id": "infrastructure", "label": "Infrastructure"},
+    {"id": "specialized-tool", "label": "Specialized Tool"},
 ]
 
 # Required fields in app.json

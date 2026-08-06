@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated": "2026-08-06T18:38:00.051184+00:00",
+  "generated": "2026-08-06T18:44:40.435225+00:00",
   "apps": [
     {
       "id": "anythingllm",
@@ -64,20 +64,6 @@
       "pinned": true
     },
     {
-      "id": "infinity-arcade",
-      "name": "Infinity Arcade",
-      "description": "Generate and play infinite remixes of retro-style arcade games",
-      "category": [
-        "creative"
-      ],
-      "date_added": "2025-02-05",
-      "links": {
-        "app": "https://github.com/lemonade-sdk/infinity-arcade"
-      },
-      "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/infinity-arcade/logo.png",
-      "pinned": true
-    },
-    {
       "id": "Claude Code",
       "name": "Claude Code",
       "description": "Agentic coding tool that reads your codebase, edits files, runs commands, and integrates with your development tools",
@@ -90,6 +76,21 @@
         "guide": "https://lemonade-server.ai/docs/integrations/claude-code/"
       },
       "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/claude-code/logo.png",
+      "pinned": true
+    },
+    {
+      "id": "n8n",
+      "name": "n8n",
+      "description": "Workflow automation platform with native Lemonade integration for AI-powered automations",
+      "category": [
+        "workflow"
+      ],
+      "date_added": "2025-02-05",
+      "links": {
+        "app": "https://n8n.io/integrations/lemonade-model/",
+        "guide": "https://developer.amd.com/playbooks/n8n-automation-gpt-oss/"
+      },
+      "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/n8n/logo.png",
       "pinned": true
     },
     {
@@ -168,18 +169,17 @@
       "pinned": true
     },
     {
-      "id": "n8n",
-      "name": "n8n",
-      "description": "Workflow automation platform with native Lemonade integration for AI-powered automations",
+      "id": "infinity-arcade",
+      "name": "Infinity Arcade",
+      "description": "Generate and play infinite remixes of retro-style arcade games",
       "category": [
-        "workflow"
+        "creative"
       ],
       "date_added": "2025-02-05",
       "links": {
-        "app": "https://n8n.io/integrations/lemonade-model/",
-        "guide": "https://developer.amd.com/playbooks/n8n-automation-gpt-oss/"
+        "app": "https://github.com/lemonade-sdk/infinity-arcade"
       },
-      "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/n8n/logo.png",
+      "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/infinity-arcade/logo.png",
       "pinned": true
     },
     {

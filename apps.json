@@ -1,7 +1,22 @@
 {
   "version": "1.0",
-  "generated": "2026-06-25T16:53:54.634265+00:00",
+  "generated": "2026-08-06T15:32:11.973226+00:00",
   "apps": [
+    {
+      "id": "anythingllm",
+      "name": "AnythingLLM",
+      "description": "All-in-one AI application for productivity using on-device models",
+      "category": [
+        "chat"
+      ],
+      "date_added": "2025-02-05",
+      "links": {
+        "app": "https://anythingllm.com/",
+        "guide": "https://lemonade-server.ai/docs/integrations/anythingLLM/"
+      },
+      "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/anythingllm/logo.png",
+      "pinned": true
+    },
     {
       "id": "open-webui",
       "name": "Open WebUI",
@@ -34,34 +49,18 @@
       "pinned": true
     },
     {
-      "id": "anythingllm",
-      "name": "AnythingLLM",
-      "description": "All-in-one AI application for productivity using on-device models",
+      "id": "pi",
+      "name": "Pi",
+      "description": "Minimal terminal-based coding agent using local models via Lemonade",
       "category": [
-        "chat"
+        "code"
       ],
-      "date_added": "2025-02-05",
+      "date_added": "2026-06-22",
       "links": {
-        "app": "https://anythingllm.com/",
-        "guide": "https://lemonade-server.ai/docs/integrations/anythingLLM/"
+        "app": "https://pi.dev/",
+        "guide": "https://lemonade-server.ai/docs/integrations/pi/"
       },
-      "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/anythingllm/logo.png",
-      "pinned": true
-    },
-    {
-      "id": "gaia",
-      "name": "GAIA",
-      "description": "Python SDK for designing multi-modal local-first agents",
-      "category": [
-        "automation"
-      ],
-      "date_added": "2025-02-05",
-      "links": {
-        "app": "https://github.com/amd/gaia",
-        "guide": "https://github.com/amd/gaia?tab=readme-ov-file#getting-started-guide",
-        "video": "https://youtu.be/_PORHv_-atI?si=EYQjmrRQ6Zy2H0ek"
-      },
-      "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/gaia/logo.png",
+      "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/pi/logo.png",
       "pinned": true
     },
     {
@@ -110,18 +109,19 @@
       "pinned": true
     },
     {
-      "id": "pi",
-      "name": "Pi",
-      "description": "Minimal terminal-based coding agent using local models via Lemonade",
+      "id": "gaia",
+      "name": "GAIA",
+      "description": "Python SDK for designing multi-modal local-first agents",
       "category": [
-        "code"
+        "automation"
       ],
-      "date_added": "2026-06-22",
+      "date_added": "2025-02-05",
       "links": {
-        "app": "https://pi.dev/",
-        "guide": "https://lemonade-server.ai/docs/integrations/pi/"
+        "app": "https://github.com/amd/gaia",
+        "guide": "https://github.com/amd/gaia?tab=readme-ov-file#getting-started-guide",
+        "video": "https://youtu.be/_PORHv_-atI?si=EYQjmrRQ6Zy2H0ek"
       },
-      "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/pi/logo.png",
+      "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/gaia/logo.png",
       "pinned": true
     },
     {
@@ -338,17 +338,17 @@
       "pinned": false
     },
     {
-      "id": "perplexica",
-      "name": "Perplexica",
+      "id": "vane",
+      "name": "Vane",
       "description": "Open-source AI search engine with local LLM support",
       "category": [
         "chat"
       ],
       "date_added": "2025-02-05",
       "links": {
-        "app": "https://github.com/ItzCrazyKns/Perplexica"
+        "app": "https://github.com/ItzCrazyKns/Vane"
       },
-      "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/perplexica/logo.png",
+      "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/vane/logo.png",
       "pinned": false
     }
   ],

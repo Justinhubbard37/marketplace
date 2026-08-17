@@ -1,0 +1,11 @@
+{
+  "id": "modelscope",
+  "name": "ModelScope",
+  "description": "Browse and discover GGUF models on ModelScope, downloadable straight from Lemonade",
+  "category": ["infrastructure"],
+  "date_added": "2026-08-17",
+  "links": {
+    "app": "https://modelscope.cn/models",
+    "guide": "https://lemonade-server.ai/news/modelscope-search.html"
+  }
+}

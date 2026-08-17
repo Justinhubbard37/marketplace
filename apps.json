@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated": "2026-08-06T18:44:40.435225+00:00",
+  "generated": "2026-08-17T17:43:16.769838+00:00",
   "apps": [
     {
       "id": "anythingllm",
@@ -181,6 +181,21 @@
       },
       "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/infinity-arcade/logo.png",
       "pinned": true
+    },
+    {
+      "id": "modelscope",
+      "name": "ModelScope",
+      "description": "Browse and discover GGUF models on ModelScope, downloadable straight from Lemonade",
+      "category": [
+        "infrastructure"
+      ],
+      "date_added": "2026-08-17",
+      "links": {
+        "app": "https://modelscope.cn/models",
+        "guide": "https://lemonade-server.ai/news/modelscope-search.html"
+      },
+      "logo": "https://raw.githubusercontent.com/lemonade-sdk/marketplace/main/apps/modelscope/logo.png",
+      "pinned": false
     },
     {
       "id": "openclaw",
